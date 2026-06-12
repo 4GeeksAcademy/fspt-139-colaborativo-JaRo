@@ -5,3 +5,9 @@ body{
 .navbar{
     background-color: aquamarine;
 }
+
+.jumbotron{
+    background-image: url("../img/bg.jpg");
+    background-position: bottom;
+    background-size: cover;
+}
