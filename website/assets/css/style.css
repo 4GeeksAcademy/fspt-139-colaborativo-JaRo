@@ -5,3 +5,7 @@ body{
 .navbar{
     background-color: aquamarine;
 }
+
+.form {
+    background-color: red;
+}
